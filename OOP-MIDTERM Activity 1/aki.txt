@@ -1,0 +1,5 @@
+eno    ename   mobile
+101    Sulatana 9849211983
+102 	Aki     9920080731
+103	    Thor	090008012345
+104     Karyll  5654656161
